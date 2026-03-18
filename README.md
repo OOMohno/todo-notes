@@ -1,2 +1,3 @@
 # todo-notes
-the notes of todo
+the notes of to do
+are written here
